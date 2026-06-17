@@ -1,1 +1,2 @@
 note from notepad - local repo
+note from Github - remote repo
